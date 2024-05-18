@@ -4,8 +4,8 @@ To run this project:
 2 - Read the .env comments to activate Gmail email.</br>
 
 To Login :
-email : iskanderboss1999@gmail.com
-password : iskanderboss1999@gmail.com
+email : iskanderboss1999@gmail.com </br>
+password : iskanderboss1999@gmail.com </br>
 
 <img width="2048" alt="Screenshot 0006-05-01 at 9 25 33 PM" src="https://github.com/iskanderbentaleb/GestionParkInfo/assets/61707068/1f9923e7-0066-44a7-99bd-d5232742dc69">
 <img width="2048" alt="Screenshot 0006-05-01 at 9 25 23 PM" src="https://github.com/iskanderbentaleb/GestionParkInfo/assets/61707068/65306648-bd89-4716-b0f9-9161542999bd">
