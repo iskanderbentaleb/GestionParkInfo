@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "build-css": "npx tailwindcss -i ./App/resources/src/input.css -o ./App/resources/src/output.css --watch",
+    "build-js": "npx esbuild App/resources/js/alpinejs.js --outfile=App/resources/js/scriptalpine.js --bundle --watch"
+  },
+  "dependencies": {
+    "alpinejs": "^3.13.8",
+    "esbuild": "^0.20.2",
+    "flowbite": "^2.3.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
