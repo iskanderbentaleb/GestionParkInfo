@@ -1,11 +1,35 @@
-To run this project:
+Le sujet proposé par la direction informatique (sonatrach) est la conception et la réalisation d'une application de gestion du parc informatique, couvrant toutes les étapes, de la prévision jusqu'à l'inventaire final.
 
-1 - Go to the .env file and change the information to your info. </br>
-2 - Read the .env comments to activate Gmail email.</br>
+Notre système permet de gérer les opérations suivantes :
 
-To Login :
-email : iskanderboss1999@gmail.com </br>
-password : iskanderboss1999@gmail.com </br>
+📊 État statistique du matériel
+
+🛒 Achats (prévisionnels et simples)
+
+📦 Réception du matériel
+
+👤 Affectation aux utilisateurs ou services
+
+🔄 Réaffectation du matériel
+
+🛠️ Maintenance (sous garantie et hors garantie)
+
+♻️ Réforme (sortie du parc)
+
+📋 Inventaire complet du parc informatique
+
+------------------------------------------------------------
+
+▶️ Comment exécuter le projet
+Ouvrez le fichier .env et modifiez-le avec vos propres informations de configuration.
+Suivez les commentaires dans le fichier .env pour activer l’envoi d’emails via Gmail.
+
+🔐 Identifiants de connexion de démonstration
+Utilisez les identifiants suivants pour vous connecter :
+
+Email :    iskanderboss1999@gmail.com  
+Mot de passe : iskanderboss1999@gmail.com
+
 
 <img width="2048" alt="Screenshot 0006-05-01 at 9 25 33 PM" src="https://github.com/iskanderbentaleb/GestionParkInfo/assets/61707068/1f9923e7-0066-44a7-99bd-d5232742dc69">
 <img width="2048" alt="Screenshot 0006-05-01 at 9 25 23 PM" src="https://github.com/iskanderbentaleb/GestionParkInfo/assets/61707068/65306648-bd89-4716-b0f9-9161542999bd">
